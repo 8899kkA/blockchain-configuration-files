@@ -1824,6 +1824,22 @@
     "wallet_conf": "raven--v4.1.0.conf"
   },
   {
+    "blockchain": "REBELCoin",
+    "ticker": "RBL",
+    "ver_id": "Rebelcoin--v1.0.0",
+    "ver_name": "Rebelcoin",
+    "conf_name": "rebelcoin.conf",
+    "dir_name_linux": "rebelcoin",
+    "dir_name_mac": "REBELCoin",
+    "dir_name_win": "REBELCoin",
+    "repo_url": "https://github.com/RebelStation/REBELCoin",
+    "versions": [
+      "v1.0.0"
+    ],
+    "xbridge_conf": "rebelcoin--v1.0.0.conf",
+    "wallet_conf": "rebelcoin--v1.0.0.conf"
+  },
+  {
     "blockchain": "Reecore",
     "ticker": "REEX",
     "ver_id": "Reecore--v1.4.2.2",

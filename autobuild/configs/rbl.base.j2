@@ -1,0 +1,34 @@
+{
+    "RBL": {
+        "Title": "REBELCoin",
+        "Address": "",
+        "Ip": "127.0.0.1",
+        "rpcPort": "{{ rpcPort|default(18151)}}",
+        "p2pPort": "{{ p2pPort|default(18150)}}",
+        "Username": "{{ rpcusername }}",
+        "Password": "{{ rpcpassword }}",
+        "AddressPrefix": "61",
+        "ScriptPrefix": "13",
+        "SecretPrefix": "212",
+        "COIN": "100000000",
+        "MinimumAmount": "0",
+        "DustAmount": "0",
+        "CreateTxMethod": "BTC",
+        "GetNewKeySupported": "true",
+        "ImportWithNoScanSupported": "true",
+        "MinTxFee": "0",
+        "BlockTime": "120",
+        "TxVersion": "1",
+        "FeePerByte": "25",
+        "Confirmations": "0",
+        "versions": {
+            "v1.0.0": {
+                "legacy": false,
+                "deprecatedrpc": false,
+                "xbridge_conf": "rebelcoin--v1.0.0.conf",
+                "wallet_conf": "rebelcoin--v1.0.0.conf",
+                "GetNewKeySupported": false
+            }
+        }
+    }
+}
