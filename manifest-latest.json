@@ -1826,7 +1826,7 @@
   {
     "blockchain": "REBELCoin",
     "ticker": "RBL",
-    "ver_id": "Rebelcoin--v1.0.0",
+    "ver_id": "rebelcoin--v1.0.0",
     "ver_name": "Rebelcoin",
     "conf_name": "rebelcoin.conf",
     "dir_name_linux": "rebelcoin",
