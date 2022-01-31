@@ -1848,7 +1848,7 @@
     "dir_name_linux": "rebelcoin",
     "dir_name_mac": "REBELCoin",
     "dir_name_win": "REBELCoin",
-    "repo_url": "https://github.com/8899kkA/REBELCoin/tree/bump-fix-so-it-compiles",
+    "repo_url": "https://github.com/RebelStation/REBELCoin",
     "versions": [
       "v1.0"
     ],
